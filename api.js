@@ -22,7 +22,7 @@ const api = async (URL) => {
 const retryDelay = (retryCount) => retryCount * 1000;
 
 /**
- * Make a singular request for the provided URL
+ * Make a single request for the provided URL
  * followed by at most 3 retry requests, if a request
  * yields an error response
  * @param {String} URL
