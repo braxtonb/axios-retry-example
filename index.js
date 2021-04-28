@@ -1,6 +1,6 @@
 const express = require('express');
 
-const { api, apiRetry } = require('./api');
+const { api, apiRetry } = require('./lib/api');
 
 const app = express();
 const PORT = 3000;
