@@ -2,7 +2,7 @@
 
 ## Overview
 
-Simple example demonstrating how to setup [axios-retry](https://github.com/softonic/axios-retry) to retry [axios](https://github.com/axios/axios) requests instead of throw an error if there is a server related error response.
+Simple example demonstrating how to setup [axios-retry](https://github.com/softonic/axios-retry) to retry [axios](https://github.com/axios/axios) requests instead of throwing an error if there is a server related error response.
 
 ## Usage
 
